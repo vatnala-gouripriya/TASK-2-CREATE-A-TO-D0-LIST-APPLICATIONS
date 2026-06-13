@@ -1,1 +1,73 @@
-# TASK-2-CREATE-A-TO-D0-LIST-APPLICATIONS
+# DESCRIPTION
+
+The To-Do List Application is a simple command-line program developed using Python to help users organize and manage their tasks effectively. The application enables users to create new tasks, display all existing tasks, and delete tasks that have been completed. All tasks are stored in a list while the program is running, allowing easy task tracking and management.
+
+This project demonstrates important Python programming concepts such as lists, loops, functions, conditional statements, and exception handling while providing a useful productivity tool for everyday use.
+
+# OBJECTIVES
+
+The main objective of this project is to design an easy-to-use task management application that allows users to:
+
+- Add new tasks
+- View the list of saved tasks
+- Delete completed tasks
+- Organize daily activities efficiently
+- Improve productivity through task management
+
+# TOOLS REQUIRED
+
+Programming Language
+
+- Python 3.x
+
+# Development Tools
+
+- Visual Studio Code (VS Code)
+- PyCharm
+- IDLE
+- Jupyter Notebook (Optional)
+
+# Libraries
+
+- Python built-in functions only
+- No external libraries required
+
+# System Requirements
+
+- No dataset is needed
+- User-entered tasks serve as the application's data
+
+# PURPOSE
+
+The project is designed to provide practical experience with:
+
+- List data structures and storage
+- Function implementation
+- Looping and iteration
+- Conditional statements
+- Exception handling
+- Command-line user interaction
+
+# FEATURES
+
+- Add tasks to the list
+- Display all available tasks
+- Remove completed tasks
+- Menu-driven user interface
+- Simple and user-friendly interaction
+- Input validation
+- Error handling for invalid inputs
+- Lightweight and efficient performance
+
+# APPLICATIONS
+
+- Personal task organization
+- Daily schedule planning
+- Academic assignment management
+- Office and workplace task tracking
+- Productivity improvement
+- Learning Python programming fundamentals
+
+# CONCLUSION
+
+The To-Do List Application is a basic yet useful task management program developed using Python. It provides users with an easy way to add, view, and remove tasks through a command-line interface. The project successfully demonstrates core Python concepts, including lists, functions, loops, conditional statements, and exception handling. It serves as an effective productivity tool and provides a solid foundation for developing more advanced task management systems in the future.
